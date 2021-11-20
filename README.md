@@ -9,3 +9,6 @@ automatically assigned to the near/closest matching taxonomy
 2. How to use
   - upload this plugin
   - activate this plugin
+
+3. How to test
+  - pleae use test csv file
