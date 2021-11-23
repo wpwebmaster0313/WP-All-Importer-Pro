@@ -12,3 +12,5 @@ automatically assigned to the near/closest matching taxonomy
 
 3. How to test
   - pleae use test csv file
+
+4. Added part 1
