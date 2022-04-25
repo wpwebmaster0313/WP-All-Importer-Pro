@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Oleksandr
+ * @package wpwebmaster0313
  * @version 1.0.0
  */
 /*
