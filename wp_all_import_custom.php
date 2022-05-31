@@ -7,7 +7,7 @@
 Plugin Name: WP All Import Oleksandr
 Plugin URI: 
 Description: automatically assigned to the near/closest matching taxonomy
-Author: Oleksandr S.
+Author: wpwebmaster0313
 Version: 1.0.0
 Author URI: 
 */
